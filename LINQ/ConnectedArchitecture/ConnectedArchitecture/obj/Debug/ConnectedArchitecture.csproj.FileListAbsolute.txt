@@ -1,0 +1,11 @@
+C:\Users\Can\Desktop\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.exe.config
+C:\Users\Can\Desktop\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.exe
+C:\Users\Can\Desktop\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.pdb
+C:\Users\Can\Desktop\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.Form1.resources
+C:\Users\Can\Desktop\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.Properties.Resources.resources
+C:\Users\Can\Desktop\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.exe
+C:\Users\Can\Desktop\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.pdb
+C:\Users\Can\Desktop\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.UrunDetay.resources
